@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-title-group>
+      <journal-title>Revista Latinoamericana de artes y cultura</journal-title>
+    </journal-title-group>
+    <publisher>
+      <publisher-name>Fundación para las artes y la cultura</publisher-name>
+      <publisher-loc>Buenos aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a1">
+        <name>
+          <surname>Samyn</surname>
+          <given-names>Lucas</given-names>
+        </name>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>06</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>01</volume>
+    <issue>01</issue>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>

@@ -1,4 +1,5 @@
-Las deudas pendientes de la digitalización en América Latina
+::: {.editorial}
+
 
 La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
 
@@ -11,3 +12,5 @@ El problema, conviene insistir, no es exclusivamente tecnológico. La digitaliza
 Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete ---una vez más--- resolver por sí sola las deudas históricas de la región.
 
 [^1]: Según estimaciones de la CEPAL, en 2022 el costo del servicio de banda ancha para la población del primer quintil de ingresos representaba en promedio el 14% de su ingreso mensual en la región, una proporción que vuelve inviable cualquier pretensión de universalidad efectiva.
+
+:::
