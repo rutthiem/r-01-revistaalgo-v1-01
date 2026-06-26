@@ -1,3 +1,4 @@
+## archivo cabecera
 Detalle de la revista
 
 1 editorial

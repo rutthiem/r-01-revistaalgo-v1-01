@@ -32,6 +32,17 @@
           <given-names>Lucas</given-names>
         </name>
       </contrib>
+      <contrib contrib-type="author" id="a4">
+        <name>
+          <surname>Alonso Cabral</surname>
+          <given-names>Ruth</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0001-4472-767X</contrib-id>
+        <aff>
+          <institution content-type="dept">Historia del Arte</institution>,
+          <city>CABA</city>
+        </aff>
+      </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
       <month>06</month>
