@@ -6,15 +6,19 @@
          xml:lang="es">
    <front>
       <journal-meta>
+         <journal-id journal-id-type="publisher-id">2697-3650</journal-id>
          <journal-title-group>
-            <journal-title>Revista Latinoamericana de artes y cultura</journal-title>
+            <journal-title>Blensera</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">BRC</abbrev-journal-title>
          </journal-title-group>
+         <issn pub-type="epub">2697-3650</issn>
          <publisher>
-            <publisher-name>Fundación para las artes y la cultura</publisher-name>
-            <publisher-loc>Buenos aires, Argentina</publisher-loc>
+            <publisher-name>Ediciones Universidad del Salvador</publisher-name>
+            <publisher-loc>Ciudad de Buenos aires, Argentina</publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="doi">10.18356/9789210029582c005</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
                <subject>editorial</subject>
@@ -22,6 +26,9 @@
          </article-categories>
          <title-group>
             <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The pending debts of digitalization in Latin America</trans-title>
+            </trans-title-group>
          </title-group>
          <contrib-group>
             <contrib contrib-type="author" id="a1">
@@ -39,7 +46,50 @@
          <issue>01</issue>
          <permissions>
             <copyright-year>2026</copyright-year>
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+               <license-p>CC BY-NC-ND 4.0</license-p>
+            </license>
          </permissions>
+         <abstract xml:lang="es">
+            <p>Las deudas pendientes de la digitalización en América Latina
+
+La pandemia de COVID-19 aceleró la adopción de tecnologías en América Latina, forzando la virtualización de la educación, los trámites públicos y la salud. Sin embargo, este avance no borró las desigualdades, sino que evidenció y profundizó las fracturas sociales preexistentes en una región con una infraestructura digital muy desigual. Mientras las grandes ciudades contaban con banda ancha estable, las zonas rurales y periféricas carecían de conectividad básica, dispositivos adecuados y competencias digitales.
+
+Tres años después de la crisis sanitaria, el panorama es ambivalente. Si bien aumentó la penetración de Internet, se consolidó la **"brecha digital de segundo nivel"** (la desigualdad en la calidad de uso). Los sectores vulnerables acceden a la red principalmente mediante teléfonos móviles con planes de datos limitados. Esto restringe su capacidad para estudiar, trabajar o ejercer su ciudadanía, actividades que requieren conexiones estables y pantallas grandes. Según datos de la CEPAL (2022), para el 20% de la población con menores ingresos (primer quintil), el costo de la banda ancha representa en promedio el 14% de sus ingresos mensuales, lo que imposibilita una conectividad universal real.
+
+El desafío, por lo tanto, no es puramente tecnológico. Proveer infraestructura no basta: la digitalización sin políticas públicas integrales (que incluyan formación, diseño institucional y contenidos pertinentes) corre el riesgo de amplificar las brechas históricas de ingreso, género, etnia, territorio y edad. La transformación digital no puede entenderse aislada de las condiciones materiales de la región, y ninguna innovación tecnológica resolverá por sí sola estos problemas estructurales si no se acompaña de un debate y un diseño político profundo.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <p>The Unresolved Debts of Digitalization in Latin America
+
+The COVID-19 pandemic accelerated technology adoption in Latin America, forcing the virtualization of education, public procedures, and healthcare. However, this progress did not erase inequalities; instead, it exposed and deepened pre-existing social fractures in a region with highly unequal digital infrastructure. While major cities enjoyed stable broadband, rural and peripheral areas lacked basic connectivity, adequate devices, and digital literacy.
+
+Three years after the health crisis, the landscape remains ambivalent. Although internet penetration increased, a **"second-level digital divide"** (inequality in the quality of use) became firmly established. Low-income sectors access the network primarily via mobile phones with limited data plans. This restriction hampers their ability to study, work, or engage in civic life—activities that require stable connections and larger screens. According to CEPAL data (2022), the cost of broadband for the poorest 20% of the population (the first quintile) represents an average of 14% of their monthly income, making true universal connectivity impossible.
+
+Therefore, the challenge is not purely technological. Providing infrastructure is not enough; digitalization without comprehensive public policies (including training, institutional design, and relevant content) risks amplifying historic gaps in income, gender, ethnicity, territory, and age. Digital transformation cannot be understood in isolation from the region's material conditions, and no technological innovation will solve these structural problems on its own without deep political debate and design.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es" kwd-group-type="author-generated">
+            <kwd>Brecha digital
+América latina
+Digitalización
+Políticas públicas
+Desigualdad social
+Conectividad
+CEPAL
+Inclusión digital
+</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en" kwd-group-type="author-generated">
+            <kwd>Digital divide
+Latin America
+Digitalization
+Public policy
+Social inequality
+Connectivity
+ECLAC (Economic Commission for Latin America and the Caribbean)
+Digital inclusion</kwd>
+         </kwd-group>
          <custom-meta-group>
             <custom-meta>
                <meta-name>xml-lang</meta-name>

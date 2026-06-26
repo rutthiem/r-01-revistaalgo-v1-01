@@ -1,5 +1,4 @@
-Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
-
+## ::: {.review-article}
 Resumen
 
 Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.
@@ -101,6 +100,8 @@ Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de 
 Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.
 
 Referencias
+
+:::
 
 
 
