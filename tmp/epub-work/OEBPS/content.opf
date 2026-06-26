@@ -29,9 +29,9 @@
 <item id="img-falta-tapap" href="images/falta-tapap.png" media-type="image/png"/>
 <item id="img-logo-revista" href="images/logo-revista.png" media-type="image/png"/>
 <item id="img-logo-revistamodelo" href="images/logo-revistamodelo.png" media-type="image/png"/>
+<item id="img-foto-tapa" href="images/foto-tapa.png" media-type="image/png" properties="cover-image"/>
 <item id="img-falta-tapa" href="images/falta-tapa.png" media-type="image/png"/>
 <item id="img-desconocido" href="images/desconocido.png" media-type="image/png"/>
-<item id="img-logo-cabecera" href="images/logo-cabecera.png" media-type="image/png"/>
 <item id="front-matter-fm-00-portada" href="front-matter/fm-00-portada.xhtml" media-type="application/xhtml+xml"/>
 <item id="front-matter-fm-03-toc" href="front-matter/fm-03-toc.xhtml" media-type="application/xhtml+xml"/>
 <item id="articles-h-01-EDITORIAL-V01-N01" href="articles/h-01-EDITORIAL-V01-N01.xhtml" media-type="application/xhtml+xml"/>
