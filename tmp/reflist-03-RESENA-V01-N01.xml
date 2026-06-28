@@ -1,1 +1,19 @@
-<ref-list/>
+<ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ref id="bib-2567-SOUZA2017">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Souza</surname>
+          <given-names>Jessé</given-names>
+        </name>
+      </person-group>
+      <chapter-title>A elite do atraso: da escravidão à Lava Jato</chapter-title>
+      <source>Leya</source>
+      <publisher-loc>São Paulo</publisher-loc>
+      <year>2017</year>
+      <fpage>242</fpage>
+      <lpage>242</lpage>
+      <isbn>9788544104081</isbn>
+    </element-citation>
+  </ref>
+</ref-list>

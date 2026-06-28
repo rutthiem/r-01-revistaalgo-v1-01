@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626194935</doi_batch_id>
+      <timestamp>20260626194935</timestamp>
+      <depositor>
+         <depositor_name>Ediciones Universidad del Salvador</depositor_name>
+         <email_address>publicaciones@usal.edu.ar</email_address>
+      </depositor>
+      <registrant>Universidad del Salvador</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Blensera</full_title>
+            <abbrev_title>BRC</abbrev_title>
+            <issn media_type="electronic">2697-3650</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+               <original_language_title language="en">The pending debts of digitalization in Latin America</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Lucas</given_name>
+                  <surname>Samyn</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Ruth</given_name>
+                  <surname>Alonso Cabral</surname>
+                  <ORCID authenticated="true">https://orcid.org/0009-0001-4472-767X</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">Las deudas pendientes de la digitalización en América Latina La pandemia de COVID-19 aceleró la adopción de tecnologías en América Latina, forzando la virtualización de la educación, los trámites públicos y la salud. Sin embargo, este avance no borró las desigualdades, sino que evidenció y profundizó las fracturas sociales preexistentes en una región con una infraestructura digital muy desigual. Mientras las grandes ciudades contaban con banda ancha estable, las zonas rurales y periféricas carecían de conectividad básica, dispositivos adecuados y competencias digitales. Tres años después de la crisis sanitaria, el panorama es ambivalente. Si bien aumentó la penetración de Internet, se consolidó la **"brecha digital de segundo nivel"** (la desigualdad en la calidad de uso). Los sectores vulnerables acceden a la red principalmente mediante teléfonos móviles con planes de datos limitados. Esto restringe su capacidad para estudiar, trabajar o ejercer su ciudadanía, actividades que requieren conexiones estables y pantallas grandes. Según datos de la CEPAL (2022), para el 20% de la población con menores ingresos (primer quintil), el costo de la banda ancha representa en promedio el 14% de sus ingresos mensuales, lo que imposibilita una conectividad universal real. El desafío, por lo tanto, no es puramente tecnológico. Proveer infraestructura no basta: la digitalización sin políticas públicas integrales (que incluyan formación, diseño institucional y contenidos pertinentes) corre el riesgo de amplificar las brechas históricas de ingreso, género, etnia, territorio y edad. La transformación digital no puede entenderse aislada de las condiciones materiales de la región, y ninguna innovación tecnológica resolverá por sí sola estos problemas estructurales si no se acompaña de un debate y un diseño político profundo.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The Unresolved Debts of Digitalization in Latin America The COVID-19 pandemic accelerated technology adoption in Latin America, forcing the virtualization of education, public procedures, and healthcare. However, this progress did not erase inequalities; instead, it exposed and deepened pre-existing social fractures in a region with highly unequal digital infrastructure. While major cities enjoyed stable broadband, rural and peripheral areas lacked basic connectivity, adequate devices, and digital literacy. Three years after the health crisis, the landscape remains ambivalent. Although internet penetration increased, a **"second-level digital divide"** (inequality in the quality of use) became firmly established. Low-income sectors access the network primarily via mobile phones with limited data plans. This restriction hampers their ability to study, work, or engage in civic life—activities that require stable connections and larger screens. According to CEPAL data (2022), the cost of broadband for the poorest 20% of the population (the first quintile) represents an average of 14% of their monthly income, making true universal connectivity impossible. Therefore, the challenge is not purely technological. Providing infrastructure is not enough; digitalization without comprehensive public policies (including training, institutional design, and relevant content) risks amplifying historic gaps in income, gender, ethnicity, territory, and age. Digital transformation cannot be understood in isolation from the region's material conditions, and no technological innovation will solve these structural problems on its own without deep political debate and design.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>4</last_page>
+            </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.18356/9789210029582c005</doi>
+               <resource content_version="vor" mime_type="text/html">https://doi.org/10.18356/9789210029582c005</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>
