@@ -2,9 +2,13 @@
 <meta-articulo>
   <identidad>
     <doi>10.18356/9789210029582c005</doi>
+    <url-texto-completo>file:///home/ruth/00_trabajos/demo01/docs/h-03-RESENA-V01-N01.html</url-texto-completo>
   </identidad>
   <revista>
   </revista>
   <autores>
+    <autor ref="a1">
+      <credit>Software</credit>
+    </autor>
   </autores>
 </meta-articulo>
