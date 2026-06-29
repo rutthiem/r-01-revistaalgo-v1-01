@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260626200655</doi_batch_id>
-      <timestamp>20260626200655</timestamp>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260628211249</doi_batch_id>
+      <timestamp>20260628211249</timestamp>
       <depositor>
          <depositor_name>Ediciones Universidad del Salvador</depositor_name>
          <email_address>publicaciones@usal.edu.ar</email_address>
@@ -37,13 +37,13 @@
                           publication_type="full_text"
                           reference_distribution_opts="any">
             <titles>
-               <title>A elite do atraso: da escravidão à Lava Jato</title>
-               <original_language_title language="en">The Elite of Backwardness: From Slavery to Operation Car Wash</original_language_title>
+               <title>Reseña biliográfica</title>
+               <original_language_title language="en">Literature review</original_language_title>
             </titles>
             <contributors>
                <person_name sequence="first" contributor_role="author">
-                  <given_name>Jessé</given_name>
-                  <surname>Souza</surname>
+                  <given_name>Lucas</given_name>
+                  <surname>Samyn</surname>
                </person_name>
             </contributors>
             <publication_date media_type="online">

@@ -1,0 +1,39 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-28 21:22:03
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Las deudas pendientes de la digitalización en América Latina
+Autor(es): Samyn, Lucas; Alonso Cabral, Ruth
+Archivo:   01-EDITORIAL-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: RYCIT
+ISSN:            2697-3650
+URL canónica:    (no definida)
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2697-3650-RYCIT-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2697-3650-RYCIT-01-01-00001.xml — XML SciELO PS 1.9
+  2697-3650-RYCIT-01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       VÁLIDO — is_valid: true
+  DTD errors:   0
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: No hay URL canónica definida para este artículo.
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Enviar el ZIP a scielo@scielo.org

@@ -1,5 +1,17 @@
 <ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- ADVERTENCIA: citekey '2562-WARSCHAUER2024' no encontrado en el .bib -->
+  <ref id="bib-2562-WARSCHAUER2004">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Warschauer</surname>
+          <given-names>M.</given-names>
+        </name>
+      </person-group>
+      <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
+      <publisher-name>The MIT Press</publisher-name>
+      <year>2004</year>
+    </element-citation>
+  </ref>
   <ref id="bib-2565-HARGITTAI2002">
     <element-citation publication-type="journal">
       <person-group person-group-type="author">
@@ -27,19 +39,6 @@
       <chapter-title>The Digital Divide</chapter-title>
       <source>Polity Press</source>
       <year>2020</year>
-    </element-citation>
-  </ref>
-  <ref id="bib-2562-WARSCHAUER2004">
-    <element-citation publication-type="book">
-      <person-group person-group-type="author">
-        <name>
-          <surname>Warschauer</surname>
-          <given-names>M.</given-names>
-        </name>
-      </person-group>
-      <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
-      <publisher-name>The MIT Press</publisher-name>
-      <year>2004</year>
     </element-citation>
   </ref>
   <ref id="bib-2566-CEPAL2021">

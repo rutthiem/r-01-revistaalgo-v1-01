@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Ediciones Universidad del Salvador</publisher>
+      <journalTitle>Blensera</journalTitle>
+      <eissn>2697-3650</eissn>
+      <publicationDate>2026-06-30</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <startPage>1</startPage>
+      <endPage>3</endPage>
+      <doi>10.18356/9789210029582c005</doi>
+      <documentType>book review</documentType>
+      <title language="spa">Reseña biliográfica</title>
+      <authors>
+         <author>
+            <name>Samyn, Lucas</name>
+         </author>
+      </authors>
+      <fullTextUrl format="text/html">file:///home/ruth/00_trabajos/demo01/docs/h-03-RESENA-V01-N01.html</fullTextUrl>
+   </record>
+</records>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Ediciones Universidad del Salvador</publisher>
+      <journalTitle>Blensera</journalTitle>
+      <eissn>2697-3650</eissn>
+      <publicationDate>2026-06-30</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <startPage>1</startPage>
+      <endPage>4</endPage>
+      <doi>10.18356/9789210029582c005</doi>
+      <documentType>editorial</documentType>
+      <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
+      <authors>
+         <author>
+            <name>Samyn, Lucas</name>
+         </author>
+         <author>
+            <name>Alonso Cabral, Ruth</name>
+            <affiliationId>2</affiliationId>
+            <orcid_id>https://orcid.org/0009-0001-4472-767X</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="2">Historia del Arte</affiliationName>
+      </affiliationsList>
+      <abstract language="spa">Las deudas pendientes de la digitalización en América Latina La pandemia de COVID-19 aceleró la adopción de tecnologías en América Latina, forzando la virtualización de la educación, los trámites públicos y la salud. Sin embargo, este avance no borró las desigualdades, sino que evidenció y profundizó las fracturas sociales preexistentes en una región con una infraestructura digital muy desigual. Mientras las grandes ciudades contaban con banda ancha estable, las zonas rurales y periféricas carecían de conectividad básica, dispositivos adecuados y competencias digitales. Tres años después de la crisis sanitaria, el panorama es ambivalente. Si bien aumentó la penetración de Internet, se consolidó la **"brecha digital de segundo nivel"** (la desigualdad en la calidad de uso). Los sectores vulnerables acceden a la red principalmente mediante teléfonos móviles con planes de datos limitados. Esto restringe su capacidad para estudiar, trabajar o ejercer su ciudadanía, actividades que requieren conexiones estables y pantallas grandes. Según datos de la CEPAL (2022), para el 20% de la población con menores ingresos (primer quintil), el costo de la banda ancha representa en promedio el 14% de sus ingresos mensuales, lo que imposibilita una conectividad universal real. El desafío, por lo tanto, no es puramente tecnológico. Proveer infraestructura no basta: la digitalización sin políticas públicas integrales (que incluyan formación, diseño institucional y contenidos pertinentes) corre el riesgo de amplificar las brechas históricas de ingreso, género, etnia, territorio y edad. La transformación digital no puede entenderse aislada de las condiciones materiales de la región, y ninguna innovación tecnológica resolverá por sí sola estos problemas estructurales si no se acompaña de un debate y un diseño político profundo.</abstract>
+      <fullTextUrl format="text/html">file:///home/ruth/00_trabajos/demo01/docs/h-01-EDITORIAL-V01-N01.html</fullTextUrl>
+      <keywords language="spa">
+         <keyword>Brecha digital América latina Digitalización Políticas públicas Desigualdad social Conectividad CEPAL Inclusión digital</keyword>
+      </keywords>
+   </record>
+</records>

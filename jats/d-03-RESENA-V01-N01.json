@@ -1,0 +1,31 @@
+{
+  "bibjson": {
+    "title": "Reseña biliográfica",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Samyn, Lucas"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2697-3650"},
+      {"type": "doi", "id": "10.18356/9789210029582c005"}
+    ],
+    "journal": {
+      "title": "Blensera",
+      "publisher": "Ediciones Universidad del Salvador",
+      "volume": "01",
+      "number": "01",
+      "start_page": "1",
+      "end_page": "3"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "file:///home/ruth/00_trabajos/demo01/docs/h-03-RESENA-V01-N01.html",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

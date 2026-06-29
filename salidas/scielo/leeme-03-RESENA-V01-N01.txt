@@ -1,0 +1,41 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-28 21:31:47
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Reseña biliográfica
+Autor(es): Samyn, Lucas
+Archivo:   03-RESENA-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: RYCIT
+ISSN:            2697-3650
+URL canónica:    (no definida)
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 2697-3650-RYCIT-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  2697-3650-RYCIT-01-01-00001.xml — XML SciELO PS 1.9
+  2697-3650-RYCIT-01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: No hay URL canónica definida para este artículo.
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org
